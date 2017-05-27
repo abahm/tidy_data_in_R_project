@@ -35,7 +35,7 @@ The full list of column names in **mean_dataset.txt** is:
 
 Column | Description
 --------- | ----------
-subject | an id from 1 to 20
+subject | an id from 1 to 30
 activity | what the subject was doing (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
 TimeBodyAccelerometerMeanX | for all following data, mean values of the column indicated
 TimeBodyAccelerometerMeanY
